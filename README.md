@@ -2,4 +2,4 @@ A digestible sample of my code to include on my resume. Albeit a rather old one,
 
 Background research, coding, debugging, presentation, and Q&A for this totaled 5-10 hours. 
 
-I spent most of my time on the job interfacing this model with the Java and C++ code of the rest of the game, and participating in subsequent versions and revisions.
+I spent most of my time on the job incorporating spatial migration, integrating this model into the Java and C++ code of the rest of the game, and participating in subsequent versions and revisions.
